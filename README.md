@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [mucang](https://www.mucang.cn/).
+- 🔭 I’m currently working on mucang.
 - 🌱 I’m currently learning JS、Node、TS、Go、Swift.
 - 👨‍💻 I’m currently working as a Full-stack Developer.
 
